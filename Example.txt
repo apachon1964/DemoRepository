@@ -1,0 +1,8 @@
+.
+..
+Directory.txt
+Example.txt
+.git
+README.md
+Test1.txt
+Test.txt
